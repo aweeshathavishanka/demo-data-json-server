@@ -1,0 +1,811 @@
+{
+  "blog": [
+    {
+      "id": 1,
+      "title": "I Will Create, Fix, Customize, Your WordPress Website",
+      "date": "2023-10-01",
+      "coverImage": "https://framerusercontent.com/images/iIVwyDez1hsRob42i4hSRmOrA.png?scale-down-to=1024",
+      "content": "Nulla nisl sagittis, sed vulputate conseque pharetra leo mollis amet, duis elit, inemus nibha quisque. Aliquam phasellus neccerat scelerisque. Sed turpis ullamcorper sed sit a vel pharetra porttitor odio. Eu non elit diam cursus risus. Sit non, est curabitur odio netus id. Sit enim consectetur hendrerit mi, eget purus odio pellentesque enim ipsam voluptatem quiaptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porero quisquam est, qui dolorem ipsum quia dolor sit amet consectetur, adipisci velit, sed quia non numquam eiustam modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid extmishea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariaturSed ut perspiciatis unde omnis iste natus error sit voluptatem antium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.",
+      "author": "John Doe",
+      "author_profileImg": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Development",
+      "tags": ["WordPress", "Web Development", "Customization"]
+    },
+    {
+      "id": 2,
+      "title": "I Will Do SEO Full On Page And Off Page Optimization For Any Site",
+      "date": "2023-10-01",
+      "coverImage": "https://framerusercontent.com/images/Dq6FQf0qhIk6aBCRnDbOzex2rY.png?scale-down-to=1024",
+      "content": "Nulla nisl sagittis, sed ulputate consequat pharetra. Leo mollis amet, duis elite musta nibhae quisque. Aliquate phaslus necerat scelerse. Sed turpis ullamcorper sed sit a vel pharetra porttitor odio non elit diam cursu risus. Siet non, est curatur odion netus idsit enim consectur hendret mi, eget purus odio pellentes suspende enim ipsam voluptatem quiaptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porero quisquam est, qui dolorem ipsum quia dolor sit amet consectetur, adipisci velit, sed quia non numquam eiustam modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+      "author": "John Doe",
+      "author_profileImg": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Marketing",
+      "tags": ["WordPress", "Web Development", "Customization"]
+    },
+    {
+      "id": 3,
+      "title": "I Will Make Professional Excel And Google Sheets for your project",
+      "date": "2023-10-01",
+      "coverImage": "https://framerusercontent.com/images/cG3A0vd2GVo6lnDjmKqJ2gB7Mw.png?scale-down-to=1024",
+      "content": "Nulla nisl sagittis, sed vulputate conseque pharetra leo mollis amet, duis elit, inemus nibha quisque. Aliquam phasellus neccerat scelerisque. Sed turpis ullamcorper sed sit a vel pharetra porttitor odio. Eu non elit diam cursus risus. Sit non, est curabitur odio netus id. Sit enim consectetur hendrerit mi, eget purus odio pellentesque enim ipsam voluptatem quiaptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porero quisquam est, qui dolorem ipsum quia dolor sit amet consectetur, adipisci velit, sed quia non numquam eiustam modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid extmishea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariaturSed ut perspiciatis unde omnis iste natus error sit voluptatem antium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.",
+      "author": "John Doe",
+      "author_profileImg": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Technology",
+      "tags": ["WordPress", "Web Development", "Customization"]
+    },
+    {
+      "id": 4,
+      "title": "How to Build Your Freelance Career Developing Mobile Apps",
+      "date": "2025-10-01",
+      "coverImage": "https://framerusercontent.com/images/C3UZBfUQ65X4xwlwLQQx9QcM.png?scale-down-to=1024",
+      "content": "Nulla nisl sagittis, sed vulputate conseque pharetra leo mollis amet, duis elit, inemus nibha quisque. Aliquam phasellus neccerat scelerisque. Sed turpis ullamcorper sed sit a vel pharetra porttitor odio. Eu non elit diam cursus risus. Sit non, est curabitur odio netus id. Sit enim consectetur hendrerit mi, eget purus odio pellentesque enim ipsam voluptatem quiaptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porero quisquam est, qui dolorem ipsum quia dolor sit amet consectetur, adipisci velit, sed quia non numquam eiustam modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid extmishea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariaturSed ut perspiciatis unde omnis iste natus error sit voluptatem antium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.",
+      "author": "John Doe",
+      "author_profileImg": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Technology",
+      "tags": ["WordPress", "Web Development", "Customization"]
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "isVeriefied": true,
+      "companyName": "Beam Hela Osu Lanka (PVT) LTD",
+      "companyThumbnail": "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/04/Ashwaganda-TB-2.jpg",
+      "companyCoverImage": "https://yt3.googleusercontent.com/BnUCNhapDO6bpQ0CGm09twm1d8ZajXhz-4WRN8KAgM8JsmKuSsDOpkO-GhzP2LnVuxbl4egz=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "companyLogo": "https://media.contra.com/image/upload/c_fill,f_avif,h_240,q_auto:good,w_240/axvmxe97dzxu5hodhzns",
+      "companyFullName": "Beam Hela Osu Lanka (PVT) LTD",
+      "companyCategory": "Ayurveda",
+      "companyTags": ["Ayurvedic Products", "Herbal Remedies", "Personal Care"],
+      "companyNickName": "Beam Hela Osu Lanka",
+      "companyShortDescription": "Manufacturer of Ayurvedic medicinal products since 1984, offering a range of herbal remedies and personal care items.",
+      "companyDescription": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka, established in 1984. The company specializes in producing a wide range of herbal remedies and personal care items, including traditional Ayurvedic medicines, herbal teas, and natural cosmetics. With a commitment to quality and authenticity, Beam Hela Osu Lanka combines ancient Ayurvedic knowledge with modern manufacturing techniques to create effective and safe products for health and wellness.",
+      "companyAddressLine1": "No 2, 1st Floor, 1st Lane,",
+      "companyCity": "Colombo 03",
+      "companyStateProvince": "Western Province",
+      "companyCountry": "Sri Lanka",
+      "companyPostalCode": "00300",
+      "companyPhoneNumber": "+94112345678",
+      "companyEmail": "sV5PZ@example.com",
+      "companyWhatsappNo": "+94712345678",
+      "companyLocationURL": "https://maps.app.goo.gl/MsELQaKu7DHcZRJb9",
+      "companyWebsite": "https://www.beamhelaosulanka.lk/",
+      "companyFacebook": "https://www.facebook.com/BeamHelaOsuLanka",
+      "companyInstagram": "https://www.instagram.com/beamhelaosulanka/",
+      "companyLinkedIn": "https://www.linkedin.com/company/beamhelaosulanka",
+      "companyTwitter": "https://twitter.com/BeamHelaOsuLanka",
+      "companyYoutube": "https://www.youtube.com/@BeamHelaOsuLanka",
+      "companyPinterest": "https://www.pinterest.com/BeamHelaOsuLanka",
+      "companyTiktok": "https://www.tiktok.com/@beamhelaosulanka",
+      "companySnapchat": "https://www.snapchat.com/add/beamhelaosulanka",
+      "companyGoogle": "https://www.google.com/maps/place/Beam+Hela+Osu+Lanka/@6.9271,79.9585,15z/data=!4m2!3m1!1s0x0:0x0?sa=X&ved=2ahUKEwjX8q6Jv7r-AhVQkIkEHTg9D4QQ_BJ6BAhLEAI",
+      "companyGalleryImages": [
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/04/Ashwaganda-TB-2.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2019/07/Medaharaniya.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2020/09/Beam-Balm.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Nilkatarolu.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Diab-Pro.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2023/09/Head-Master.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Heen-Bovitiya.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Lipid-Pro.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2020/09/Beam-Balm.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2016/06/Beam-Cream.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2018/12/Beam-Fiel-New.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2016/07/Camphor-Cream.png",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/06/Dasangalepa-2.jpg"
+      ],
+      "companyOverview": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka, established in 1984. The company specializes in producing a wide range of herbal remedies and personal care items, including traditional Ayurvedic medicines, herbal teas, and natural cosmetics. With a commitment to quality and authenticity, Beam Hela Osu Lanka combines ancient Ayurvedic knowledge with modern manufacturing techniques to create effective and safe products for health and wellness.",
+      "companyVides": [
+        {
+          "id": 1,
+          "thumbnail": "https://i.ytimg.com/an_webp/m__SuMZQL_0/mqdefault_6s.webp?du=3000&sqp=COTC078G&rs=AOn4CLCwYxiOv6gEl17fN1tQJ61NrT1PJw",
+          "videoUrl": "https://www.youtube.com/embed/m__SuMZQL_0"
+        }
+      ],
+      "companyFaqs": [
+        {
+          "id": 1,
+          "question": "What is the company's name?",
+          "answer": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka."
+        },
+        {
+          "id": 2,
+          "question": "What is the company's mission?",
+          "answer": "The company's mission is to provide high-quality Ayurvedic medicinal products for health and wellness."
+        },
+        {
+          "id": 3,
+          "question": "Where is the company located?",
+          "answer": "The company is located at No 2, 1st Floor, 1st Lane, Colombo 03, Western Province, Sri Lanka."
+        },
+        {
+          "id": 4,
+          "question": "What are the company's main products?",
+          "answer": "The company's main products include traditional Ayurvedic medicines, herbal teas, and natural cosmetics."
+        }
+      ],
+      "companyReviews": [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "jobPosition": "Customer",
+          "rating": 4,
+          "comment": "Great products! Highly recommended.",
+          "date": "2023-10-01",
+          "profileImg": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ],
+      "companyTeamMembers": [
+        {
+          "id": 1,
+          "memberName": "Aweesha Thavishanka",
+          "memberPosition": "CEO",
+          "memberProfileImg": "https://framerusercontent.com/images/2X0c1a3g4x5k6q7r8s9t0u1v2w.png?scale-down-to=1024",
+          "memberMail": "N0f7M@example.com",
+          "linkedInUrl": "https://www.linkedin.com/in/aweesha-thavishanka-123456789/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "isVerified": false,
+      "companyName": "GreenTech Innovations",
+      "companyThumbnail": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "companyCoverImage": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "companyLogo": "https://images.unsplash.com/photo-1620288627223-53302f4e8c74?q=80&w=2612&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "companyFullName": "GreenTech Innovations Pvt Ltd",
+      "companyCategory": "Technology",
+      "companyTags": ["Renewable Energy", "Tech Solutions", "Sustainability"],
+      "companyNickName": "GreenTech",
+      "companyShortDescription": "Innovative solutions for a sustainable future.",
+      "companyDescription": "GreenTech Innovations Pvt Ltd is a technology company focused on renewable energy solutions and sustainable practices, founded in 2020.",
+      "companyAddressLine1": "45 Green Road",
+      "companyCity": "Kandy",
+      "companyStateProvince": "Central Province",
+      "companyCountry": "Sri Lanka",
+      "companyPostalCode": "20000",
+      "companyPhoneNumber": "+94812345678",
+      "companyEmail": "contact@greentech.lk",
+      "companyWhatsappNo": "+94771234567",
+      "companyLocationURL": "https://maps.app.goo.gl/xyz123",
+      "companyWebsite": "https://www.greentech.lk/",
+      "companyFacebook": "https://www.facebook.com/GreenTechLK",
+      "companyInstagram": "https://www.instagram.com/greentechlk/",
+      "companyLinkedIn": "https://www.linkedin.com/company/greentech-innovations",
+      "companyTwitter": "https://twitter.com/GreenTechLK",
+      "companyYoutube": "https://www.youtube.com/@GreenTechLK",
+      "companyGalleryImages": [
+        "https://example.com/images/solar-panel.jpg",
+        "https://example.com/images/wind-turbine.jpg",
+        "https://example.com/images/tech-lab.jpg"
+      ],
+      "companyOverview": "GreenTech Innovations is dedicated to advancing renewable energy technologies for a greener planet.",
+      "companyVideos": [
+        {
+          "id": 1,
+          "thumbnail": "https://example.com/thumbs/greentech-video.jpg",
+          "videoUrl": "https://www.youtube.com/embed/abc123"
+        }
+      ],
+      "companyFaqs": [
+        {
+          "id": 1,
+          "question": "What is GreenTech's mission?",
+          "answer": "To promote sustainability through innovative technology."
+        }
+      ],
+      "companyReviews": [
+        {
+          "id": 1,
+          "name": "Priya Fernando",
+          "jobPosition": "Client",
+          "rating": 4,
+          "comment": "Great initiative, looking forward to more products.",
+          "date": "2024-03-10"
+        }
+      ],
+      "companyTeamMembers": [
+        {
+          "id": 1,
+          "memberName": "Nimal Perera",
+          "memberPosition": "Founder",
+          "memberMail": "nimal@greentech.lk",
+          "linkedInUrl": "https://www.linkedin.com/in/nimal-perera/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "isVeriefied": true,
+      "companyName": "Beam Hela Osu Lanka (PVT) LTD",
+      "companyThumbnail": "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/04/Ashwaganda-TB-2.jpg",
+      "companyCoverImage": "https://yt3.googleusercontent.com/BnUCNhapDO6bpQ0CGm09twm1d8ZajXhz-4WRN8KAgM8JsmKuSsDOpkO-GhzP2LnVuxbl4egz=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "companyLogo": "https://media.contra.com/image/upload/c_fill,f_avif,h_240,q_auto:good,w_240/axvmxe97dzxu5hodhzns",
+      "companyFullName": "Beam Hela Osu Lanka (PVT) LTD",
+      "companyCategory": "Ayurveda",
+      "companyTags": ["Ayurvedic Products", "Herbal Remedies", "Personal Care"],
+      "companyNickName": "Beam Hela Osu Lanka",
+      "companyShortDescription": "Manufacturer of Ayurvedic medicinal products since 1984, offering a range of herbal remedies and personal care items.",
+      "companyDescription": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka, established in 1984. The company specializes in producing a wide range of herbal remedies and personal care items, including traditional Ayurvedic medicines, herbal teas, and natural cosmetics. With a commitment to quality and authenticity, Beam Hela Osu Lanka combines ancient Ayurvedic knowledge with modern manufacturing techniques to create effective and safe products for health and wellness.",
+      "companyAddressLine1": "No 2, 1st Floor, 1st Lane,",
+      "companyCity": "Colombo 03",
+      "companyStateProvince": "Western Province",
+      "companyCountry": "Sri Lanka",
+      "companyPostalCode": "00300",
+      "companyPhoneNumber": "+94112345678",
+      "companyEmail": "sV5PZ@example.com",
+      "companyWhatsappNo": "+94712345678",
+      "companyLocationURL": "https://maps.app.goo.gl/MsELQaKu7DHcZRJb9",
+      "companyWebsite": "https://www.beamhelaosulanka.lk/",
+      "companyFacebook": "https://www.facebook.com/BeamHelaOsuLanka",
+      "companyInstagram": "https://www.instagram.com/beamhelaosulanka/",
+      "companyLinkedIn": "https://www.linkedin.com/company/beamhelaosulanka",
+      "companyTwitter": "https://twitter.com/BeamHelaOsuLanka",
+      "companyYoutube": "https://www.youtube.com/@BeamHelaOsuLanka",
+      "companyPinterest": "https://www.pinterest.com/BeamHelaOsuLanka",
+      "companyTiktok": "https://www.tiktok.com/@beamhelaosulanka",
+      "companySnapchat": "https://www.snapchat.com/add/beamhelaosulanka",
+      "companyGoogle": "https://www.google.com/maps/place/Beam+Hela+Osu+Lanka/@6.9271,79.9585,15z/data=!4m2!3m1!1s0x0:0x0?sa=X&ved=2ahUKEwjX8q6Jv7r-AhVQkIkEHTg9D4QQ_BJ6BAhLEAI",
+      "companyGalleryImages": [
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/04/Ashwaganda-TB-2.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2019/07/Medaharaniya.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2020/09/Beam-Balm.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Nilkatarolu.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Diab-Pro.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2023/09/Head-Master.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Heen-Bovitiya.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Lipid-Pro.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2020/09/Beam-Balm.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2016/06/Beam-Cream.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2018/12/Beam-Fiel-New.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2016/07/Camphor-Cream.png",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/06/Dasangalepa-2.jpg"
+      ],
+      "companyOverview": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka, established in 1984. The company specializes in producing a wide range of herbal remedies and personal care items, including traditional Ayurvedic medicines, herbal teas, and natural cosmetics. With a commitment to quality and authenticity, Beam Hela Osu Lanka combines ancient Ayurvedic knowledge with modern manufacturing techniques to create effective and safe products for health and wellness.",
+      "companyVides": [
+        {
+          "id": 1,
+          "thumbnail": "https://i.ytimg.com/an_webp/m__SuMZQL_0/mqdefault_6s.webp?du=3000&sqp=COTC078G&rs=AOn4CLCwYxiOv6gEl17fN1tQJ61NrT1PJw",
+          "videoUrl": "https://www.youtube.com/embed/m__SuMZQL_0"
+        }
+      ],
+      "companyFaqs": [
+        {
+          "id": 1,
+          "question": "What is the company's name?",
+          "answer": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka."
+        },
+        {
+          "id": 2,
+          "question": "What is the company's mission?",
+          "answer": "The company's mission is to provide high-quality Ayurvedic medicinal products for health and wellness."
+        },
+        {
+          "id": 3,
+          "question": "Where is the company located?",
+          "answer": "The company is located at No 2, 1st Floor, 1st Lane, Colombo 03, Western Province, Sri Lanka."
+        },
+        {
+          "id": 4,
+          "question": "What are the company's main products?",
+          "answer": "The company's main products include traditional Ayurvedic medicines, herbal teas, and natural cosmetics."
+        }
+      ],
+      "companyReviews": [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "jobPosition": "Customer",
+          "rating": 4,
+          "comment": "Great products! Highly recommended.",
+          "date": "2023-10-01",
+          "profileImg": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ],
+      "companyTeamMembers": [
+        {
+          "id": 1,
+          "memberName": "Aweesha Thavishanka",
+          "memberPosition": "CEO",
+          "memberProfileImg": "https://framerusercontent.com/images/2X0c1a3g4x5k6q7r8s9t0u1v2w.png?scale-down-to=1024",
+          "memberMail": "N0f7M@example.com",
+          "linkedInUrl": "https://www.linkedin.com/in/aweesha-thavishanka-123456789/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "isVeriefied": true,
+      "companyName": "Beam Hela Osu Lanka (PVT) LTD",
+      "companyThumbnail": "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/04/Ashwaganda-TB-2.jpg",
+      "companyCoverImage": "https://yt3.googleusercontent.com/BnUCNhapDO6bpQ0CGm09twm1d8ZajXhz-4WRN8KAgM8JsmKuSsDOpkO-GhzP2LnVuxbl4egz=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "companyLogo": "https://media.contra.com/image/upload/c_fill,f_avif,h_240,q_auto:good,w_240/axvmxe97dzxu5hodhzns",
+      "companyFullName": "Beam Hela Osu Lanka (PVT) LTD",
+      "companyCategory": "Ayurveda",
+      "companyTags": ["Ayurvedic Products", "Herbal Remedies", "Personal Care"],
+      "companyNickName": "Beam Hela Osu Lanka",
+      "companyShortDescription": "Manufacturer of Ayurvedic medicinal products since 1984, offering a range of herbal remedies and personal care items.",
+      "companyDescription": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka, established in 1984. The company specializes in producing a wide range of herbal remedies and personal care items, including traditional Ayurvedic medicines, herbal teas, and natural cosmetics. With a commitment to quality and authenticity, Beam Hela Osu Lanka combines ancient Ayurvedic knowledge with modern manufacturing techniques to create effective and safe products for health and wellness.",
+      "companyAddressLine1": "No 2, 1st Floor, 1st Lane,",
+      "companyCity": "Colombo 03",
+      "companyStateProvince": "Western Province",
+      "companyCountry": "Sri Lanka",
+      "companyPostalCode": "00300",
+      "companyPhoneNumber": "+94112345678",
+      "companyEmail": "sV5PZ@example.com",
+      "companyWhatsappNo": "+94712345678",
+      "companyLocationURL": "https://maps.app.goo.gl/MsELQaKu7DHcZRJb9",
+      "companyWebsite": "https://www.beamhelaosulanka.lk/",
+      "companyFacebook": "https://www.facebook.com/BeamHelaOsuLanka",
+      "companyInstagram": "https://www.instagram.com/beamhelaosulanka/",
+      "companyLinkedIn": "https://www.linkedin.com/company/beamhelaosulanka",
+      "companyTwitter": "https://twitter.com/BeamHelaOsuLanka",
+      "companyYoutube": "https://www.youtube.com/@BeamHelaOsuLanka",
+      "companyPinterest": "https://www.pinterest.com/BeamHelaOsuLanka",
+      "companyTiktok": "https://www.tiktok.com/@beamhelaosulanka",
+      "companySnapchat": "https://www.snapchat.com/add/beamhelaosulanka",
+      "companyGoogle": "https://www.google.com/maps/place/Beam+Hela+Osu+Lanka/@6.9271,79.9585,15z/data=!4m2!3m1!1s0x0:0x0?sa=X&ved=2ahUKEwjX8q6Jv7r-AhVQkIkEHTg9D4QQ_BJ6BAhLEAI",
+      "companyGalleryImages": [
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/04/Ashwaganda-TB-2.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2019/07/Medaharaniya.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2020/09/Beam-Balm.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Nilkatarolu.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Diab-Pro.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2023/09/Head-Master.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Heen-Bovitiya.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Lipid-Pro.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2020/09/Beam-Balm.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2016/06/Beam-Cream.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2018/12/Beam-Fiel-New.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2016/07/Camphor-Cream.png",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/06/Dasangalepa-2.jpg"
+      ],
+      "companyOverview": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka, established in 1984. The company specializes in producing a wide range of herbal remedies and personal care items, including traditional Ayurvedic medicines, herbal teas, and natural cosmetics. With a commitment to quality and authenticity, Beam Hela Osu Lanka combines ancient Ayurvedic knowledge with modern manufacturing techniques to create effective and safe products for health and wellness.",
+      "companyVides": [
+        {
+          "id": 1,
+          "thumbnail": "https://i.ytimg.com/an_webp/m__SuMZQL_0/mqdefault_6s.webp?du=3000&sqp=COTC078G&rs=AOn4CLCwYxiOv6gEl17fN1tQJ61NrT1PJw",
+          "videoUrl": "https://www.youtube.com/embed/m__SuMZQL_0"
+        }
+      ],
+      "companyFaqs": [
+        {
+          "id": 1,
+          "question": "What is the company's name?",
+          "answer": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka."
+        },
+        {
+          "id": 2,
+          "question": "What is the company's mission?",
+          "answer": "The company's mission is to provide high-quality Ayurvedic medicinal products for health and wellness."
+        },
+        {
+          "id": 3,
+          "question": "Where is the company located?",
+          "answer": "The company is located at No 2, 1st Floor, 1st Lane, Colombo 03, Western Province, Sri Lanka."
+        },
+        {
+          "id": 4,
+          "question": "What are the company's main products?",
+          "answer": "The company's main products include traditional Ayurvedic medicines, herbal teas, and natural cosmetics."
+        }
+      ],
+      "companyReviews": [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "jobPosition": "Customer",
+          "rating": 4,
+          "comment": "Great products! Highly recommended.",
+          "date": "2023-10-01",
+          "profileImg": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ],
+      "companyTeamMembers": [
+        {
+          "id": 1,
+          "memberName": "Aweesha Thavishanka",
+          "memberPosition": "CEO",
+          "memberProfileImg": "https://framerusercontent.com/images/2X0c1a3g4x5k6q7r8s9t0u1v2w.png?scale-down-to=1024",
+          "memberMail": "N0f7M@example.com",
+          "linkedInUrl": "https://www.linkedin.com/in/aweesha-thavishanka-123456789/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "isVeriefied": true,
+      "companyName": "Beam Hela Osu Lanka (PVT) LTD",
+      "companyThumbnail": "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/04/Ashwaganda-TB-2.jpg",
+      "companyCoverImage": "https://yt3.googleusercontent.com/BnUCNhapDO6bpQ0CGm09twm1d8ZajXhz-4WRN8KAgM8JsmKuSsDOpkO-GhzP2LnVuxbl4egz=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "companyLogo": "https://media.contra.com/image/upload/c_fill,f_avif,h_240,q_auto:good,w_240/axvmxe97dzxu5hodhzns",
+      "companyFullName": "Beam Hela Osu Lanka (PVT) LTD",
+      "companyCategory": "Ayurveda",
+      "companyTags": ["Ayurvedic Products", "Herbal Remedies", "Personal Care"],
+      "companyNickName": "Beam Hela Osu Lanka",
+      "companyShortDescription": "Manufacturer of Ayurvedic medicinal products since 1984, offering a range of herbal remedies and personal care items.",
+      "companyDescription": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka, established in 1984. The company specializes in producing a wide range of herbal remedies and personal care items, including traditional Ayurvedic medicines, herbal teas, and natural cosmetics. With a commitment to quality and authenticity, Beam Hela Osu Lanka combines ancient Ayurvedic knowledge with modern manufacturing techniques to create effective and safe products for health and wellness.",
+      "companyAddressLine1": "No 2, 1st Floor, 1st Lane,",
+      "companyCity": "Colombo 03",
+      "companyStateProvince": "Western Province",
+      "companyCountry": "Sri Lanka",
+      "companyPostalCode": "00300",
+      "companyPhoneNumber": "+94112345678",
+      "companyEmail": "sV5PZ@example.com",
+      "companyWhatsappNo": "+94712345678",
+      "companyLocationURL": "https://maps.app.goo.gl/MsELQaKu7DHcZRJb9",
+      "companyWebsite": "https://www.beamhelaosulanka.lk/",
+      "companyFacebook": "https://www.facebook.com/BeamHelaOsuLanka",
+      "companyInstagram": "https://www.instagram.com/beamhelaosulanka/",
+      "companyLinkedIn": "https://www.linkedin.com/company/beamhelaosulanka",
+      "companyTwitter": "https://twitter.com/BeamHelaOsuLanka",
+      "companyYoutube": "https://www.youtube.com/@BeamHelaOsuLanka",
+      "companyPinterest": "https://www.pinterest.com/BeamHelaOsuLanka",
+      "companyTiktok": "https://www.tiktok.com/@beamhelaosulanka",
+      "companySnapchat": "https://www.snapchat.com/add/beamhelaosulanka",
+      "companyGoogle": "https://www.google.com/maps/place/Beam+Hela+Osu+Lanka/@6.9271,79.9585,15z/data=!4m2!3m1!1s0x0:0x0?sa=X&ved=2ahUKEwjX8q6Jv7r-AhVQkIkEHTg9D4QQ_BJ6BAhLEAI",
+      "companyGalleryImages": [
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/04/Ashwaganda-TB-2.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2019/07/Medaharaniya.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2020/09/Beam-Balm.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Nilkatarolu.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Diab-Pro.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2023/09/Head-Master.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Heen-Bovitiya.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Lipid-Pro.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2020/09/Beam-Balm.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2016/06/Beam-Cream.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2018/12/Beam-Fiel-New.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2016/07/Camphor-Cream.png",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/06/Dasangalepa-2.jpg"
+      ],
+      "companyOverview": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka, established in 1984. The company specializes in producing a wide range of herbal remedies and personal care items, including traditional Ayurvedic medicines, herbal teas, and natural cosmetics. With a commitment to quality and authenticity, Beam Hela Osu Lanka combines ancient Ayurvedic knowledge with modern manufacturing techniques to create effective and safe products for health and wellness.",
+      "companyVides": [
+        {
+          "id": 1,
+          "thumbnail": "https://i.ytimg.com/an_webp/m__SuMZQL_0/mqdefault_6s.webp?du=3000&sqp=COTC078G&rs=AOn4CLCwYxiOv6gEl17fN1tQJ61NrT1PJw",
+          "videoUrl": "https://www.youtube.com/embed/m__SuMZQL_0"
+        }
+      ],
+      "companyFaqs": [
+        {
+          "id": 1,
+          "question": "What is the company's name?",
+          "answer": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka."
+        },
+        {
+          "id": 2,
+          "question": "What is the company's mission?",
+          "answer": "The company's mission is to provide high-quality Ayurvedic medicinal products for health and wellness."
+        },
+        {
+          "id": 3,
+          "question": "Where is the company located?",
+          "answer": "The company is located at No 2, 1st Floor, 1st Lane, Colombo 03, Western Province, Sri Lanka."
+        },
+        {
+          "id": 4,
+          "question": "What are the company's main products?",
+          "answer": "The company's main products include traditional Ayurvedic medicines, herbal teas, and natural cosmetics."
+        }
+      ],
+      "companyReviews": [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "jobPosition": "Customer",
+          "rating": 4,
+          "comment": "Great products! Highly recommended.",
+          "date": "2023-10-01",
+          "profileImg": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ],
+      "companyTeamMembers": [
+        {
+          "id": 1,
+          "memberName": "Aweesha Thavishanka",
+          "memberPosition": "CEO",
+          "memberProfileImg": "https://framerusercontent.com/images/2X0c1a3g4x5k6q7r8s9t0u1v2w.png?scale-down-to=1024",
+          "memberMail": "N0f7M@example.com",
+          "linkedInUrl": "https://www.linkedin.com/in/aweesha-thavishanka-123456789/"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "isVeriefied": true,
+      "companyName": "Beam Hela Osu Lanka (PVT) LTD",
+      "companyThumbnail": "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/04/Ashwaganda-TB-2.jpg",
+      "companyCoverImage": "https://yt3.googleusercontent.com/BnUCNhapDO6bpQ0CGm09twm1d8ZajXhz-4WRN8KAgM8JsmKuSsDOpkO-GhzP2LnVuxbl4egz=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "companyLogo": "https://media.contra.com/image/upload/c_fill,f_avif,h_240,q_auto:good,w_240/axvmxe97dzxu5hodhzns",
+      "companyFullName": "Beam Hela Osu Lanka (PVT) LTD",
+      "companyCategory": "Ayurveda",
+      "companyTags": ["Ayurvedic Products", "Herbal Remedies", "Personal Care"],
+      "companyNickName": "Beam Hela Osu Lanka",
+      "companyShortDescription": "Manufacturer of Ayurvedic medicinal products since 1984, offering a range of herbal remedies and personal care items.",
+      "companyDescription": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka, established in 1984. The company specializes in producing a wide range of herbal remedies and personal care items, including traditional Ayurvedic medicines, herbal teas, and natural cosmetics. With a commitment to quality and authenticity, Beam Hela Osu Lanka combines ancient Ayurvedic knowledge with modern manufacturing techniques to create effective and safe products for health and wellness.",
+      "companyAddressLine1": "No 2, 1st Floor, 1st Lane,",
+      "companyCity": "Colombo 03",
+      "companyStateProvince": "Western Province",
+      "companyCountry": "Sri Lanka",
+      "companyPostalCode": "00300",
+      "companyPhoneNumber": "+94112345678",
+      "companyEmail": "sV5PZ@example.com",
+      "companyWhatsappNo": "+94712345678",
+      "companyLocationURL": "https://maps.app.goo.gl/MsELQaKu7DHcZRJb9",
+      "companyWebsite": "https://www.beamhelaosulanka.lk/",
+      "companyFacebook": "https://www.facebook.com/BeamHelaOsuLanka",
+      "companyInstagram": "https://www.instagram.com/beamhelaosulanka/",
+      "companyLinkedIn": "https://www.linkedin.com/company/beamhelaosulanka",
+      "companyTwitter": "https://twitter.com/BeamHelaOsuLanka",
+      "companyYoutube": "https://www.youtube.com/@BeamHelaOsuLanka",
+      "companyPinterest": "https://www.pinterest.com/BeamHelaOsuLanka",
+      "companyTiktok": "https://www.tiktok.com/@beamhelaosulanka",
+      "companySnapchat": "https://www.snapchat.com/add/beamhelaosulanka",
+      "companyGoogle": "https://www.google.com/maps/place/Beam+Hela+Osu+Lanka/@6.9271,79.9585,15z/data=!4m2!3m1!1s0x0:0x0?sa=X&ved=2ahUKEwjX8q6Jv7r-AhVQkIkEHTg9D4QQ_BJ6BAhLEAI",
+      "companyGalleryImages": [
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/04/Ashwaganda-TB-2.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2019/07/Medaharaniya.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2020/09/Beam-Balm.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Nilkatarolu.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Diab-Pro.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2023/09/Head-Master.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Heen-Bovitiya.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Lipid-Pro.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2020/09/Beam-Balm.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2016/06/Beam-Cream.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2018/12/Beam-Fiel-New.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2016/07/Camphor-Cream.png",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/06/Dasangalepa-2.jpg"
+      ],
+      "companyOverview": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka, established in 1984. The company specializes in producing a wide range of herbal remedies and personal care items, including traditional Ayurvedic medicines, herbal teas, and natural cosmetics. With a commitment to quality and authenticity, Beam Hela Osu Lanka combines ancient Ayurvedic knowledge with modern manufacturing techniques to create effective and safe products for health and wellness.",
+      "companyVides": [
+        {
+          "id": 1,
+          "thumbnail": "https://i.ytimg.com/an_webp/m__SuMZQL_0/mqdefault_6s.webp?du=3000&sqp=COTC078G&rs=AOn4CLCwYxiOv6gEl17fN1tQJ61NrT1PJw",
+          "videoUrl": "https://www.youtube.com/embed/m__SuMZQL_0"
+        }
+      ],
+      "companyFaqs": [
+        {
+          "id": 1,
+          "question": "What is the company's name?",
+          "answer": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka."
+        },
+        {
+          "id": 2,
+          "question": "What is the company's mission?",
+          "answer": "The company's mission is to provide high-quality Ayurvedic medicinal products for health and wellness."
+        },
+        {
+          "id": 3,
+          "question": "Where is the company located?",
+          "answer": "The company is located at No 2, 1st Floor, 1st Lane, Colombo 03, Western Province, Sri Lanka."
+        },
+        {
+          "id": 4,
+          "question": "What are the company's main products?",
+          "answer": "The company's main products include traditional Ayurvedic medicines, herbal teas, and natural cosmetics."
+        }
+      ],
+      "companyReviews": [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "jobPosition": "Customer",
+          "rating": 4,
+          "comment": "Great products! Highly recommended.",
+          "date": "2023-10-01",
+          "profileImg": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ],
+      "companyTeamMembers": [
+        {
+          "id": 1,
+          "memberName": "Aweesha Thavishanka",
+          "memberPosition": "CEO",
+          "memberProfileImg": "https://framerusercontent.com/images/2X0c1a3g4x5k6q7r8s9t0u1v2w.png?scale-down-to=1024",
+          "memberMail": "N0f7M@example.com",
+          "linkedInUrl": "https://www.linkedin.com/in/aweesha-thavishanka-123456789/"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "isVeriefied": true,
+      "companyName": "Beam Hela Osu Lanka (PVT) LTD",
+      "companyThumbnail": "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/04/Ashwaganda-TB-2.jpg",
+      "companyCoverImage": "https://yt3.googleusercontent.com/BnUCNhapDO6bpQ0CGm09twm1d8ZajXhz-4WRN8KAgM8JsmKuSsDOpkO-GhzP2LnVuxbl4egz=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "companyLogo": "https://media.contra.com/image/upload/c_fill,f_avif,h_240,q_auto:good,w_240/axvmxe97dzxu5hodhzns",
+      "companyFullName": "Beam Hela Osu Lanka (PVT) LTD",
+      "companyCategory": "Ayurveda",
+      "companyTags": ["Ayurvedic Products", "Herbal Remedies", "Personal Care"],
+      "companyNickName": "Beam Hela Osu Lanka",
+      "companyShortDescription": "Manufacturer of Ayurvedic medicinal products since 1984, offering a range of herbal remedies and personal care items.",
+      "companyDescription": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka, established in 1984. The company specializes in producing a wide range of herbal remedies and personal care items, including traditional Ayurvedic medicines, herbal teas, and natural cosmetics. With a commitment to quality and authenticity, Beam Hela Osu Lanka combines ancient Ayurvedic knowledge with modern manufacturing techniques to create effective and safe products for health and wellness.",
+      "companyAddressLine1": "No 2, 1st Floor, 1st Lane,",
+      "companyCity": "Colombo 03",
+      "companyStateProvince": "Western Province",
+      "companyCountry": "Sri Lanka",
+      "companyPostalCode": "00300",
+      "companyPhoneNumber": "+94112345678",
+      "companyEmail": "sV5PZ@example.com",
+      "companyWhatsappNo": "+94712345678",
+      "companyLocationURL": "https://maps.app.goo.gl/MsELQaKu7DHcZRJb9",
+      "companyWebsite": "https://www.beamhelaosulanka.lk/",
+      "companyFacebook": "https://www.facebook.com/BeamHelaOsuLanka",
+      "companyInstagram": "https://www.instagram.com/beamhelaosulanka/",
+      "companyLinkedIn": "https://www.linkedin.com/company/beamhelaosulanka",
+      "companyTwitter": "https://twitter.com/BeamHelaOsuLanka",
+      "companyYoutube": "https://www.youtube.com/@BeamHelaOsuLanka",
+      "companyPinterest": "https://www.pinterest.com/BeamHelaOsuLanka",
+      "companyTiktok": "https://www.tiktok.com/@beamhelaosulanka",
+      "companySnapchat": "https://www.snapchat.com/add/beamhelaosulanka",
+      "companyGoogle": "https://www.google.com/maps/place/Beam+Hela+Osu+Lanka/@6.9271,79.9585,15z/data=!4m2!3m1!1s0x0:0x0?sa=X&ved=2ahUKEwjX8q6Jv7r-AhVQkIkEHTg9D4QQ_BJ6BAhLEAI",
+      "companyGalleryImages": [
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/04/Ashwaganda-TB-2.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2019/07/Medaharaniya.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2020/09/Beam-Balm.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Nilkatarolu.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Diab-Pro.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2023/09/Head-Master.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Heen-Bovitiya.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Lipid-Pro.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2020/09/Beam-Balm.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2016/06/Beam-Cream.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2018/12/Beam-Fiel-New.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2016/07/Camphor-Cream.png",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/06/Dasangalepa-2.jpg"
+      ],
+      "companyOverview": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka, established in 1984. The company specializes in producing a wide range of herbal remedies and personal care items, including traditional Ayurvedic medicines, herbal teas, and natural cosmetics. With a commitment to quality and authenticity, Beam Hela Osu Lanka combines ancient Ayurvedic knowledge with modern manufacturing techniques to create effective and safe products for health and wellness.",
+      "companyVides": [
+        {
+          "id": 1,
+          "thumbnail": "https://i.ytimg.com/an_webp/m__SuMZQL_0/mqdefault_6s.webp?du=3000&sqp=COTC078G&rs=AOn4CLCwYxiOv6gEl17fN1tQJ61NrT1PJw",
+          "videoUrl": "https://www.youtube.com/embed/m__SuMZQL_0"
+        }
+      ],
+      "companyFaqs": [
+        {
+          "id": 1,
+          "question": "What is the company's name?",
+          "answer": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka."
+        },
+        {
+          "id": 2,
+          "question": "What is the company's mission?",
+          "answer": "The company's mission is to provide high-quality Ayurvedic medicinal products for health and wellness."
+        },
+        {
+          "id": 3,
+          "question": "Where is the company located?",
+          "answer": "The company is located at No 2, 1st Floor, 1st Lane, Colombo 03, Western Province, Sri Lanka."
+        },
+        {
+          "id": 4,
+          "question": "What are the company's main products?",
+          "answer": "The company's main products include traditional Ayurvedic medicines, herbal teas, and natural cosmetics."
+        }
+      ],
+      "companyReviews": [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "jobPosition": "Customer",
+          "rating": 4,
+          "comment": "Great products! Highly recommended.",
+          "date": "2023-10-01",
+          "profileImg": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ],
+      "companyTeamMembers": [
+        {
+          "id": 1,
+          "memberName": "Aweesha Thavishanka",
+          "memberPosition": "CEO",
+          "memberProfileImg": "https://framerusercontent.com/images/2X0c1a3g4x5k6q7r8s9t0u1v2w.png?scale-down-to=1024",
+          "memberMail": "N0f7M@example.com",
+          "linkedInUrl": "https://www.linkedin.com/in/aweesha-thavishanka-123456789/"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "isVeriefied": true,
+      "companyName": "Beam Hela Osu Lanka (PVT) LTD",
+      "companyThumbnail": "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/04/Ashwaganda-TB-2.jpg",
+      "companyCoverImage": "https://yt3.googleusercontent.com/BnUCNhapDO6bpQ0CGm09twm1d8ZajXhz-4WRN8KAgM8JsmKuSsDOpkO-GhzP2LnVuxbl4egz=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "companyLogo": "https://media.contra.com/image/upload/c_fill,f_avif,h_240,q_auto:good,w_240/axvmxe97dzxu5hodhzns",
+      "companyFullName": "Beam Hela Osu Lanka (PVT) LTD",
+      "companyCategory": "Ayurveda",
+      "companyTags": ["Ayurvedic Products", "Herbal Remedies", "Personal Care"],
+      "companyNickName": "Beam Hela Osu Lanka",
+      "companyShortDescription": "Manufacturer of Ayurvedic medicinal products since 1984, offering a range of herbal remedies and personal care items.",
+      "companyDescription": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka, established in 1984. The company specializes in producing a wide range of herbal remedies and personal care items, including traditional Ayurvedic medicines, herbal teas, and natural cosmetics. With a commitment to quality and authenticity, Beam Hela Osu Lanka combines ancient Ayurvedic knowledge with modern manufacturing techniques to create effective and safe products for health and wellness.",
+      "companyAddressLine1": "No 2, 1st Floor, 1st Lane,",
+      "companyCity": "Colombo 03",
+      "companyStateProvince": "Western Province",
+      "companyCountry": "Sri Lanka",
+      "companyPostalCode": "00300",
+      "companyPhoneNumber": "+94112345678",
+      "companyEmail": "sV5PZ@example.com",
+      "companyWhatsappNo": "+94712345678",
+      "companyLocationURL": "https://maps.app.goo.gl/MsELQaKu7DHcZRJb9",
+      "companyWebsite": "https://www.beamhelaosulanka.lk/",
+      "companyFacebook": "https://www.facebook.com/BeamHelaOsuLanka",
+      "companyInstagram": "https://www.instagram.com/beamhelaosulanka/",
+      "companyLinkedIn": "https://www.linkedin.com/company/beamhelaosulanka",
+      "companyTwitter": "https://twitter.com/BeamHelaOsuLanka",
+      "companyYoutube": "https://www.youtube.com/@BeamHelaOsuLanka",
+      "companyPinterest": "https://www.pinterest.com/BeamHelaOsuLanka",
+      "companyTiktok": "https://www.tiktok.com/@beamhelaosulanka",
+      "companySnapchat": "https://www.snapchat.com/add/beamhelaosulanka",
+      "companyGoogle": "https://www.google.com/maps/place/Beam+Hela+Osu+Lanka/@6.9271,79.9585,15z/data=!4m2!3m1!1s0x0:0x0?sa=X&ved=2ahUKEwjX8q6Jv7r-AhVQkIkEHTg9D4QQ_BJ6BAhLEAI",
+      "companyGalleryImages": [
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/04/Ashwaganda-TB-2.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2019/07/Medaharaniya.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2020/09/Beam-Balm.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Nilkatarolu.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Diab-Pro.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2023/09/Head-Master.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Heen-Bovitiya.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2025/03/Lipid-Pro.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2020/09/Beam-Balm.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2016/06/Beam-Cream.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2018/12/Beam-Fiel-New.jpg",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2016/07/Camphor-Cream.png",
+        "https://www.beamhelaosulanka.lk/beam-content/uploads/2021/06/Dasangalepa-2.jpg"
+      ],
+      "companyOverview": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka, established in 1984. The company specializes in producing a wide range of herbal remedies and personal care items, including traditional Ayurvedic medicines, herbal teas, and natural cosmetics. With a commitment to quality and authenticity, Beam Hela Osu Lanka combines ancient Ayurvedic knowledge with modern manufacturing techniques to create effective and safe products for health and wellness.",
+      "companyVides": [
+        {
+          "id": 1,
+          "thumbnail": "https://i.ytimg.com/an_webp/m__SuMZQL_0/mqdefault_6s.webp?du=3000&sqp=COTC078G&rs=AOn4CLCwYxiOv6gEl17fN1tQJ61NrT1PJw",
+          "videoUrl": "https://www.youtube.com/embed/m__SuMZQL_0"
+        }
+      ],
+      "companyFaqs": [
+        {
+          "id": 1,
+          "question": "What is the company's name?",
+          "answer": "Beam Hela Osu Lanka (PVT) LTD is a leading manufacturer of Ayurvedic medicinal products in Sri Lanka."
+        },
+        {
+          "id": 2,
+          "question": "What is the company's mission?",
+          "answer": "The company's mission is to provide high-quality Ayurvedic medicinal products for health and wellness."
+        },
+        {
+          "id": 3,
+          "question": "Where is the company located?",
+          "answer": "The company is located at No 2, 1st Floor, 1st Lane, Colombo 03, Western Province, Sri Lanka."
+        },
+        {
+          "id": 4,
+          "question": "What are the company's main products?",
+          "answer": "The company's main products include traditional Ayurvedic medicines, herbal teas, and natural cosmetics."
+        }
+      ],
+      "companyReviews": [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "jobPosition": "Customer",
+          "rating": 4,
+          "comment": "Great products! Highly recommended.",
+          "date": "2023-10-01",
+          "profileImg": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ],
+      "companyTeamMembers": [
+        {
+          "id": 1,
+          "memberName": "Aweesha Thavishanka",
+          "memberPosition": "CEO",
+          "memberProfileImg": "https://framerusercontent.com/images/2X0c1a3g4x5k6q7r8s9t0u1v2w.png?scale-down-to=1024",
+          "memberMail": "N0f7M@example.com",
+          "linkedInUrl": "https://www.linkedin.com/in/aweesha-thavishanka-123456789/"
+        }
+      ]
+    }
+  ]
+}
